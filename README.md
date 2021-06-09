@@ -11,3 +11,6 @@ Result:
 
 What's behind:
 ![Overview of circuit](/images/overview.jpg?raw=true)
+
+Schematic:
+![Schematic](/images/schematic.jpg?raw=true)
