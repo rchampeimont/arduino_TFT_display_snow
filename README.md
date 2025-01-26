@@ -6,7 +6,7 @@ I used this hardware:
 * Adafruit 7.0" 40-pin TFT Display - 800x480 with Touchscreen https://www.adafruit.com/product/2354 (In this project the touch feature is unused so a display-only like https://www.adafruit.com/product/2353 would also work.)
 * Arduino: I tested both Arduino Uno Rev3 and Arduino Wifi Rev2 (which is based on Atmega 4809)
 
-See also the interactive version which uses the touch screen: https://github.com/raphaelchampeimont/arduino_TFT_display_snow_interactive
+See also the interactive version which uses the touch screen: https://github.com/rchampeimont/arduino_TFT_display_snow_interactive
 
 See the result in video: https://www.youtube.com/watch?v=8J9WLZRbvFY
 
